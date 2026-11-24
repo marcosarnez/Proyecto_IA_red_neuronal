@@ -25,7 +25,7 @@ Las 83 fotos sirvieron para adaptar la demostración. Comprobar el sistema con e
 - `preparar_datos.py` prepara imágenes y `adquirir_datos.py` documenta una obtención acotada de fuentes públicas.
 - `ajustar_fotos_propias.py` y `preparar_referencias_defensa.py` reproducen el ajuste cuando se dispone de las fotos propias y de su archivo de etiquetas.
 - `salidas/` contiene los modelos, las etiquetas y las métricas.
-- `defensa/` contiene la presentación y el guion.
+- `defensa/` contiene la presentación.
 - `FUENTES.md` documenta la procedencia de las imágenes usadas en la etapa inicial.
 
 Las fotografías de los objetos y las imágenes originales/preparadas del entrenamiento se mantienen fuera de este repositorio. `datos/manifiesto.json` conserva los metadatos de preparación, pero sus rutas de imagen requieren recuperar los archivos originales para volver a entrenar. El modelo guardado permite ejecutar la aplicación sin esas fotos.
