@@ -1,0 +1,17 @@
+.venv/
+.runtime/
+.paquetes/
+.cache/
+__pycache__/
+*.pyc
+*.jpg
+*.jpeg
+*.webp
+*.bmp
+datos/originales/
+datos/preparados/
+datos/metadatos/
+datos/fotos_defensa_etiquetas.json
+defensa/imagenes_para_demo/
+salidas/registro_aplicacion.log
+salidas/prueba_interfaz.json

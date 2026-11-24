@@ -1,0 +1,13 @@
+                          precision    recall  f1-score   support
+
+                Jeringas      0.750     0.724     0.737        29
+                 Guantes      0.926     0.758     0.833        33
+  Mascarillas / barbijos      0.700     0.875     0.778        32
+          Gasas y vendas      0.815     0.688     0.746        32
+      Frascos y ampollas      0.706     0.750     0.727        32
+Medicamentos / blísteres      0.739     0.607     0.667        28
+          Papel y cartón      0.677     0.875     0.764        24
+
+                accuracy                          0.752       210
+               macro avg      0.759     0.754     0.750       210
+            weighted avg      0.763     0.752     0.752       210

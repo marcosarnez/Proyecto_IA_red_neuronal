@@ -1,0 +1,16 @@
+{
+  "clases": [
+    "jeringas",
+    "guantes",
+    "mascarillas",
+    "gasas_vendas",
+    "frascos_ampollas",
+    "medicamentos",
+    "papel_carton"
+  ],
+  "fotos_propias": 83,
+  "variantes_por_foto": 2,
+  "modelo_sha256": "d6620785a63a8758b3c2d293accd13fa23d0d279388dad81779d3cdfe5edb332",
+  "origen": "Fotos proporcionadas por Marcos para su demostración",
+  "nota": "La comparación por similitud usa rasgos de la CNN. El porcentaje de similitud no es probabilidad calibrada."
+}

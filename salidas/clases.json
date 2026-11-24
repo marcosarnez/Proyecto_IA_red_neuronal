@@ -1,0 +1,31 @@
+{
+  "clases": [
+    "jeringas",
+    "guantes",
+    "mascarillas",
+    "gasas_vendas",
+    "frascos_ampollas",
+    "medicamentos",
+    "papel_carton"
+  ],
+  "nombres": [
+    "Jeringas",
+    "Guantes",
+    "Mascarillas / barbijos",
+    "Gasas y vendas",
+    "Frascos y ampollas",
+    "Medicamentos / blísteres",
+    "Papel y cartón"
+  ],
+  "tamano_imagen": 128,
+  "normalizacion_en_modelo": true,
+  "umbral_sugerido": 0.65,
+  "margen_minimo": 0.12,
+  "ejecucion": "ejecucion_20261117_221647",
+  "validacion": {
+    "accuracy": 0.6818181818181818,
+    "f1_macro": 0.6823559066837672,
+    "f1_weighted": 0.6771701794660627,
+    "auc_macro_ovr": 0.9298263644158249
+  }
+}

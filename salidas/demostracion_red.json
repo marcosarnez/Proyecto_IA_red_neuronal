@@ -1,0 +1,57 @@
+{
+  "parametros_entrenables": 1072679,
+  "primera_convolucion_parametros": 448,
+  "formula_primera_convolucion": "3*3*3*16 + 16 = 448",
+  "arquitectura_compatible_con_modelo_activo": true,
+  "modelo_activo_coincide_con_checkpoint_local": true,
+  "modelo_activo_sha256": "5ef631dcbe322488c6c3f8bed8f66995e318ec3dfef9e61525f2e0871d6a6b23",
+  "ejemplos_entrenamiento_en_demostracion": 14,
+  "pesos_antes_muestra": [
+    0.1341899335384369,
+    0.060926228761672974,
+    -0.05293180048465729,
+    0.1685815453529358,
+    -0.1580727994441986,
+    0.05706891417503357
+  ],
+  "pesos_despues_muestra": [
+    0.13302287459373474,
+    0.059072062373161316,
+    -0.05312739685177803,
+    0.17114970088005066,
+    -0.16046524047851562,
+    0.05979533493518829
+  ],
+  "pasos": [
+    {
+      "paso": 1,
+      "cross_entropy": 1.9537755250930786,
+      "norma_gradientes": 1.4094551801681519,
+      "cambio_maximo_kernel_desde_inicio": 0.0009998679161071777
+    },
+    {
+      "paso": 2,
+      "cross_entropy": 2.069674253463745,
+      "norma_gradientes": 2.6263394355773926,
+      "cambio_maximo_kernel_desde_inicio": 0.0020010918378829956
+    },
+    {
+      "paso": 3,
+      "cross_entropy": 1.8632174730300903,
+      "norma_gradientes": 1.0319207906723022,
+      "cambio_maximo_kernel_desde_inicio": 0.0029790252447128296
+    }
+  ],
+  "probabilidades_ejemplo": [
+    0.16189700365066528,
+    0.11022099107503891,
+    0.12456639856100082,
+    0.14889290928840637,
+    0.14479805529117584,
+    0.1816396713256836,
+    0.12798500061035156
+  ],
+  "suma_probabilidades": 1.0,
+  "pesos_de_la_red_nueva_cambiaron": true,
+  "archivo_modelo_aplicacion_sin_cambios": true
+}

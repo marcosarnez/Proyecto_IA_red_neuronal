@@ -1,0 +1,197 @@
+{
+  "fotos_propias": 83,
+  "fotos_reservadas": 15,
+  "solo_cabeza": false,
+  "tasa": 0.0005,
+  "fotos_propias_antes": {
+    "completas": [
+      1,
+      83,
+      15
+    ],
+    "recortadas": [
+      0,
+      83,
+      9
+    ]
+  },
+  "fotos_propias_despues": {
+    "completas": [
+      46,
+      83,
+      63
+    ],
+    "recortadas": [
+      46,
+      83,
+      69
+    ]
+  },
+  "validacion_original_antes": 0.6818181818181818,
+  "validacion_original_despues": 0.6181818181818182,
+  "epocas": [
+    {
+      "epoca": 1,
+      "perdida": 1.7574474811553955,
+      "fotos_reservadas_completas": 0,
+      "fotos_reservadas_recortadas": 0,
+      "fotos_reservadas_total": 15,
+      "validacion_original": 0.6090909090909091,
+      "puntuacion_seleccion": -0.03636363636363632
+    },
+    {
+      "epoca": 2,
+      "perdida": 1.4640909433364868,
+      "fotos_reservadas_completas": 1,
+      "fotos_reservadas_recortadas": 0,
+      "fotos_reservadas_total": 15,
+      "validacion_original": 0.5545454545454546,
+      "puntuacion_seleccion": -0.03030303030303027
+    },
+    {
+      "epoca": 3,
+      "perdida": 1.2615545988082886,
+      "fotos_reservadas_completas": 3,
+      "fotos_reservadas_recortadas": 2,
+      "fotos_reservadas_total": 15,
+      "validacion_original": 0.5181818181818182,
+      "puntuacion_seleccion": 0.08484848484848487
+    },
+    {
+      "epoca": 4,
+      "perdida": 1.220393180847168,
+      "fotos_reservadas_completas": 3,
+      "fotos_reservadas_recortadas": 3,
+      "fotos_reservadas_total": 15,
+      "validacion_original": 0.5727272727272728,
+      "puntuacion_seleccion": 0.1454545454545455
+    },
+    {
+      "epoca": 5,
+      "perdida": 1.1585549116134644,
+      "fotos_reservadas_completas": 4,
+      "fotos_reservadas_recortadas": 3,
+      "fotos_reservadas_total": 15,
+      "validacion_original": 0.5818181818181818,
+      "puntuacion_seleccion": 0.18333333333333335
+    },
+    {
+      "epoca": 6,
+      "perdida": 1.030011773109436,
+      "fotos_reservadas_completas": 4,
+      "fotos_reservadas_recortadas": 5,
+      "fotos_reservadas_total": 15,
+      "validacion_original": 0.5681818181818182,
+      "puntuacion_seleccion": 0.24318181818181822
+    },
+    {
+      "epoca": 7,
+      "perdida": 1.0216268301010132,
+      "fotos_reservadas_completas": 5,
+      "fotos_reservadas_recortadas": 5,
+      "fotos_reservadas_total": 15,
+      "validacion_original": 0.6272727272727273,
+      "puntuacion_seleccion": 0.3060606060606061
+    },
+    {
+      "epoca": 8,
+      "perdida": 0.9830751419067383,
+      "fotos_reservadas_completas": 6,
+      "fotos_reservadas_recortadas": 5,
+      "fotos_reservadas_total": 15,
+      "validacion_original": 0.6090909090909091,
+      "puntuacion_seleccion": 0.3303030303030303
+    },
+    {
+      "epoca": 9,
+      "perdida": 0.9370795488357544,
+      "fotos_reservadas_completas": 6,
+      "fotos_reservadas_recortadas": 6,
+      "fotos_reservadas_total": 15,
+      "validacion_original": 0.5954545454545455,
+      "puntuacion_seleccion": 0.35681818181818187
+    },
+    {
+      "epoca": 10,
+      "perdida": 0.9003251194953918,
+      "fotos_reservadas_completas": 7,
+      "fotos_reservadas_recortadas": 6,
+      "fotos_reservadas_total": 15,
+      "validacion_original": 0.5954545454545455,
+      "puntuacion_seleccion": 0.3901515151515152
+    },
+    {
+      "epoca": 11,
+      "perdida": 0.9120761752128601,
+      "fotos_reservadas_completas": 7,
+      "fotos_reservadas_recortadas": 6,
+      "fotos_reservadas_total": 15,
+      "validacion_original": 0.5772727272727273,
+      "puntuacion_seleccion": 0.3810606060606061
+    },
+    {
+      "epoca": 12,
+      "perdida": 0.8315184116363525,
+      "fotos_reservadas_completas": 7,
+      "fotos_reservadas_recortadas": 6,
+      "fotos_reservadas_total": 15,
+      "validacion_original": 0.5818181818181818,
+      "puntuacion_seleccion": 0.38333333333333336
+    },
+    {
+      "epoca": 13,
+      "perdida": 0.8636679649353027,
+      "fotos_reservadas_completas": 7,
+      "fotos_reservadas_recortadas": 7,
+      "fotos_reservadas_total": 15,
+      "validacion_original": 0.6272727272727273,
+      "puntuacion_seleccion": 0.43939393939393945
+    },
+    {
+      "epoca": 14,
+      "perdida": 0.7742686867713928,
+      "fotos_reservadas_completas": 8,
+      "fotos_reservadas_recortadas": 7,
+      "fotos_reservadas_total": 15,
+      "validacion_original": 0.6090909090909091,
+      "puntuacion_seleccion": 0.4636363636363637
+    },
+    {
+      "epoca": 15,
+      "perdida": 0.8350765705108643,
+      "fotos_reservadas_completas": 7,
+      "fotos_reservadas_recortadas": 8,
+      "fotos_reservadas_total": 15,
+      "validacion_original": 0.5909090909090909,
+      "puntuacion_seleccion": 0.4545454545454546
+    },
+    {
+      "epoca": 16,
+      "perdida": 0.8151524662971497,
+      "fotos_reservadas_completas": 8,
+      "fotos_reservadas_recortadas": 7,
+      "fotos_reservadas_total": 15,
+      "validacion_original": 0.6090909090909091,
+      "puntuacion_seleccion": 0.4636363636363637
+    },
+    {
+      "epoca": 17,
+      "perdida": 0.7806758880615234,
+      "fotos_reservadas_completas": 8,
+      "fotos_reservadas_recortadas": 7,
+      "fotos_reservadas_total": 15,
+      "validacion_original": 0.6181818181818182,
+      "puntuacion_seleccion": 0.4681818181818182
+    },
+    {
+      "epoca": 18,
+      "perdida": 0.7593858242034912,
+      "fotos_reservadas_completas": 8,
+      "fotos_reservadas_recortadas": 8,
+      "fotos_reservadas_total": 15,
+      "validacion_original": 0.55,
+      "puntuacion_seleccion": 0.46742424242424246
+    }
+  ],
+  "nota": "Las fotos reservadas muestran los mismos objetos y fondo que las fotos de ajuste; no miden generalización independiente."
+}
